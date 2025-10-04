@@ -28,5 +28,3 @@ Visualize process scheduling with a Gantt chart, tweak quantum values, import/ex
 
 ---
 
-## 🎥 Demo
-> _(You can record a short GIF showing RR with different quantum values and put it_
