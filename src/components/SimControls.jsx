@@ -18,7 +18,6 @@ export default function SimControls({ t, maxTime, isPlaying, onPlay, onPause, on
         </select>
       </label>
 
-      {/* scrubber */}
       <input
         type="range"
         min="0"
